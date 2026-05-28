@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersecrypt",
+        "uuid": 6336036,
+        "checksum": "abhw19"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
